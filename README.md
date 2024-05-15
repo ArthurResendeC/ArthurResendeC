@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018d141a-cacf-4457-af1d-51cb8edba7a9.svg)](https://wakatime.com/@018d141a-cacf-4457-af1d-51cb8edba7a9)
 - 👋 Hi, I’m Arthur
 - 👀 I look foward to code with y'all
 - 🌱 Currently learning the basics
