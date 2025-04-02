@@ -7,8 +7,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.resendec@gmail.com)
 
 # Quem sou eu?
-- Amante de jogos, música e tecnologia;
-- Decidi me tornar um desenvolvedor web em janeiro de 2024 e pretendo cursar Sistemas de Informação em breve;
+- Amante de áudio, jogos e tecnologia;
+- Decidi me tornar um desenvolvedor web em janeiro de 2024;
+- Hoje trabalho como desenvolvedor frontend e curso Ciência de Dados pelo SENAI
 - Falo português e inglês.
 
 # O que eu sei:
